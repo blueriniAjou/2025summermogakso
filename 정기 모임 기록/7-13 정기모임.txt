@@ -1,16 +1,19 @@
-BOJ 9663 - N-Queen (골드 4)
-https://github.com/blueriniAjou/2025summermogakso/blob/main/코드/9663.cpp
+BOJ 9663 - N-Queen (골드 4) (Backtracking)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/9663.cpp
+
 같은 팀원이 도움 요청해서 도와주려고 다시 풀었습니다.
 1차원 배열을 이용해 어떤 행 / 열 / 대각선에 퀸을 이미 위치시켰는지를 표시해두고 새로운 퀸을 위치시킬 수 있는지 없는 위치를 가지치기하며 해결할 수 있습니다. 이때 대각선은 같은 좌상향 대각선에서의 모든 위치의 행-열 값이 같고, 같은 우상향 대각선에서의 모든 위치의 행+열 값이 같음을 이용합니다.
 
-BOJ 2252 - 줄 세우기 (골드 3)
-https://github.com/blueriniAjou/2025summermogakso/blob/main/코드/2252.cpp
+BOJ 2252 - 줄 세우기 (골드 3) (Topological Sort)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/2252.cpp
 위상 정렬과 Kahn's algorithm에 대해 학습하고 풀었습니다.
 
-BOJ 1005 - ACM Craft (골드 3)
-https://github.com/blueriniAjou/2025summermogakso/blob/main/코드/1005.cpp
+BOJ 1005 - ACM Craft (골드 3) (Topological Sort)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1005.cpp
+
 모든 건물을 위상 정렬하며 건물을 큐에 넣을 때 해당 건물이 건설될 때까지 걸리는 시간을 함께 넣어 다음 건물이 건설될 때까지 걸리는 시간을 계산할 때 사용하면 됩니다.
 
-BOJ 1766 - 문제집 (골드 2)
-https://github.com/blueriniAjou/2025summermogakso/blob/main/코드/1766.cpp
+BOJ 1766 - 문제집 (골드 2) (Topological Sort, Priority Queue)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1766.cpp
+
 위상 정렬하되 가능하다면 더 작은 수를 앞에 위치시켜야 하는데, Kahn's algorithm을 이용해 위상 정렬을 진행할 때 현재 큐에 있는 어떤 수를 먼저 가져와도 위상 정렬이 성립하므로, 매번 큐에서 더 작은 수를 가져오는 것으로 해결할 수 있습니다. 이를 빠르게 하기 위해, 우선순위 큐를 사용하면 됩니다.
