@@ -3,7 +3,8 @@ https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1
 최소 신장 트리와 Prim's Algorithm에 대해 학습하고 풀었습니다.
 
 BOJ 1922 - 네트워크 연결 (골드 4) (Minimum Spanning Tree)
-https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1922.cpp최소 신장 트리와 Kruskal's Algorithm에 대해 학습하고 풀었습니다.
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1922.cpp
+최소 신장 트리와 Kruskal's Algorithm에 대해 학습하고 풀었습니다.
 
 BOJ 1647 - 도시 분할 계획 (골드 4) (Minimum Spanning Tree)
 https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1647.cpp
