@@ -12,4 +12,4 @@ https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1
 
 BOJ 2887 - 행성 터널 (플래티넘 5) (Minimum Spanning Tree, Sorting)
 https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/2887.cpp
-간선의 총 개수는 약 N^2고 N의 상한이 10만이므로 모든 간선을 고려하면 안 됩니다. 어떤 정점에 대해서 x, y, z 축 각각에 대해 가장 가까운 정점 하나만을 고려하는 간선의 총 개수는 약 3N이고 최소 신장 트리의 절단 성질에 따라 이러한 간선만을 고려해도 문제를 해결할 수 있습니다. 
+간선의 총 개수는 약 N^2고 N의 상한이 10만이므로 모든 간선을 고려하면 안 됩니다. 어떤 정점에 대해서 x, y, z 축 각각에 대해 인접한 정점 쌍만을 고려하는 간선의 총 개수는 약 3N이고 최소 신장 트리의 절단 성질에 따라 이러한 간선만을 고려해도 문제를 해결할 수 있습니다. 
