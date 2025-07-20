@@ -1,0 +1,14 @@
+BOJ 1197 - 최소 스패닝 트리 (골드 4) (Minimum Spanning Tree)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1197.cpp
+최소 신장 트리와 Prim's Algorithm에 대해 학습하고 풀었습니다.
+
+BOJ 1922 - 네트워크 연결 (골드 4) (Minimum Spanning Tree)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1922.cpp최소 신장 트리와 Kruskal's Algorithm에 대해 학습하고 풀었습니다.
+
+BOJ 1647 - 도시 분할 계획 (골드 4) (Minimum Spanning Tree)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1647.cpp
+신장 트리를 구성하고 간선 하나를 제거하되 가중치 합을 최소로 해야하므로, 최소 신장 트리를 구성하고 간선 중 가장 가중치가 큰 것을 제거하면 됩니다.
+
+BOJ 2887 - 행성 터널 (플래티넘 5) (Minimum Spanning Tree, Sorting)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/2887.cpp
+간선의 총 개수는 약 N^2고 N의 상한이 10만이므로 모든 간선을 고려하면 안 됩니다. 어떤 정점에 대해서 x, y, z 축 각각에 대해 가장 가까운 정점 하나(이하 인접한 정점)만을 고려하는 간선의 총 개수는 약 3N이고 최소 신장 트리의 절단 성질에 따라 이러한 간선만을 고려해도 문제를 해결할 수 있습니다. 
