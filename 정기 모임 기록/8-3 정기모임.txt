@@ -1,0 +1,7 @@
+14268 - 회사 문화 2 (플래티넘 3) (Segment Tree, Difference Array Technique, Euler Tour Technique)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/14268.cpp
+오일러 투어 테크닉에 대해 학습하고 풀었습니다. 오일러 투어 테크닉을 적용해 트리를 1차원으로 만들면, 문제의 쿼리를 range update point query로 볼 수 있습니다. 차분 배열 기법을 이용해 point update range query로 바꾸면 세그먼트 트리로 해결 가능한 문제가 됩니다. 차분 배열 기법 대신 느리게 갱신되는 세그먼트 트리를 사용할 수도 있습니다.
+
+14287 - 회사 문화 3 (플래티넘 3) (Segment Tree, Euler Tour Technique)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/14287.cpp
+오일러 투어 테크닉을 적용해 트리를 1차원으로 만들면, 문제의 쿼리를 point update range query로 볼 수 있습니다. 세그먼트 트리로 해결 가능합니다.
