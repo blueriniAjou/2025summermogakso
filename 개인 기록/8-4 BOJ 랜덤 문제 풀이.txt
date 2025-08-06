@@ -1,0 +1,7 @@
+24462 - 일어나... 코딩해야지... (골드 4) (Brute forcing, Euclidean Algorithm)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/24462.cpp
+모든 알람의 시작되는 시각이 간격의 배수이므로, 시작되는 시각 이상 일어나야 하는 시각 이하인 간격의 배수의 개수를 구하면 알람이 울리는 횟수와 같습니다. 알람을 두 개 골라 겹치는 시점은 한 번만 세야하므로, 유클리드 호제법을 이용해 두 알람 간격의 최소공배수를 구하고 시작되는 시각 이상 일어나야 하는 시각 이하인 간격의 공배수의 개수를 빼주면 됩니다.
+
+1949 - 우수 마을 (골드 2) (DP on Tree)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/1949.cpp
+주어지는 그래프가 트리이므로 DP로 해결할 수 있습니다. 3번 조건을 무시하고 최적해를 구성해도 항상 3번 조건을 만족함이 자명합니다.

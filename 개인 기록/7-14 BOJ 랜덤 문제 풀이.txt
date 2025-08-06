@@ -1,5 +1,4 @@
 BOJ 12858 - Range GCD (다이아몬드 5) (Segment Tree, Difference Array Technique, Euclidean Algorithm)
 https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%94%EB%93%9C/12858.cpp
-
 GCD(A, B, C...) = GCD(A, abs(A-B), abs(B-C)...) 입니다. 증명은 생략합니다.
 따라서 수열에 대해 차분 배열을 구성하고, 차분 배열에 대해 구간 합 세그먼트 트리 및 GCD 세그먼트 트리를 구성해 Point Update Range Query로 문제를 바꿔 해결할 수 있습니다.
