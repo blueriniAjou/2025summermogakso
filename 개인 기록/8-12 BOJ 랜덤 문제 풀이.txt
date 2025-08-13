@@ -1,0 +1,8 @@
+BOJ 6503 - 망가진 키보드 (골드 5) (Two Pointer)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%9tj4%EB%93%9C/6503.cpp
+
+BOJ 5389 - 제곱근 작도 (골드 5) (Math, Brute Forcing)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%9tj4%EB%93%9C/5389.cpp
+
+BOJ 22862 - 가장 긴 짝수 연속한 부분 수열 (large) (골드 5) (Two Pointer)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%9tj4%EB%93%9C/22862.cpp

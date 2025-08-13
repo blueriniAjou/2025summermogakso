@@ -1,0 +1,5 @@
+BOJ 1727 - 커플 만들기 (골드 2) (DP, Sorting)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%9tj4%EB%93%9C/1727.cpp
+
+BOJ 1239 - 차트 (골드 5) (Backtracking, Deque)
+https://github.com/blueriniAjou/2025summermogakso/blob/main/%EC%BD%9tj4%EB%93%9C/1239.cpp
